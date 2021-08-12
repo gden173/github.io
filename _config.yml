@@ -2,7 +2,7 @@ title: My blog
 description: My very nice blog
 author: "Gabriel Dennis"
 
-theme: minima
+theme: jekyll-theme-minimal
 
 #base_url: /gabriel.dennis
 
